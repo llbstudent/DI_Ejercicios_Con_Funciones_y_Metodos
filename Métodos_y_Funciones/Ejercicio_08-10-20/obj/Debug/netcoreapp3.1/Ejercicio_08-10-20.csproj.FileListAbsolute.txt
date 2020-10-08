@@ -1,0 +1,13 @@
+C:\Users\User\Desktop\Ejercicio_08-10-20\Ejercicio_08-10-20\bin\Debug\netcoreapp3.1\Ejercicio_08-10-20.exe
+C:\Users\User\Desktop\Ejercicio_08-10-20\Ejercicio_08-10-20\bin\Debug\netcoreapp3.1\Ejercicio_08-10-20.deps.json
+C:\Users\User\Desktop\Ejercicio_08-10-20\Ejercicio_08-10-20\bin\Debug\netcoreapp3.1\Ejercicio_08-10-20.runtimeconfig.json
+C:\Users\User\Desktop\Ejercicio_08-10-20\Ejercicio_08-10-20\bin\Debug\netcoreapp3.1\Ejercicio_08-10-20.runtimeconfig.dev.json
+C:\Users\User\Desktop\Ejercicio_08-10-20\Ejercicio_08-10-20\bin\Debug\netcoreapp3.1\Ejercicio_08-10-20.dll
+C:\Users\User\Desktop\Ejercicio_08-10-20\Ejercicio_08-10-20\bin\Debug\netcoreapp3.1\Ejercicio_08-10-20.pdb
+C:\Users\User\Desktop\Ejercicio_08-10-20\Ejercicio_08-10-20\obj\Debug\netcoreapp3.1\Ejercicio_08-10-20.csprojAssemblyReference.cache
+C:\Users\User\Desktop\Ejercicio_08-10-20\Ejercicio_08-10-20\obj\Debug\netcoreapp3.1\Ejercicio_08-10-20.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Ejercicio_08-10-20\Ejercicio_08-10-20\obj\Debug\netcoreapp3.1\Ejercicio_08-10-20.AssemblyInfo.cs
+C:\Users\User\Desktop\Ejercicio_08-10-20\Ejercicio_08-10-20\obj\Debug\netcoreapp3.1\Ejercicio_08-10-20.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Ejercicio_08-10-20\Ejercicio_08-10-20\obj\Debug\netcoreapp3.1\Ejercicio_08-10-20.dll
+C:\Users\User\Desktop\Ejercicio_08-10-20\Ejercicio_08-10-20\obj\Debug\netcoreapp3.1\Ejercicio_08-10-20.pdb
+C:\Users\User\Desktop\Ejercicio_08-10-20\Ejercicio_08-10-20\obj\Debug\netcoreapp3.1\Ejercicio_08-10-20.genruntimeconfig.cache
